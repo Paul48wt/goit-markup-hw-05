@@ -723,6 +723,6 @@ body {
   background: var(--accent-color);
 }
 
-.social-icon.bottom {
-  fill: var(--background-color);
+.social-icon-bottom {
+  fill: var(--text-color);
 }
